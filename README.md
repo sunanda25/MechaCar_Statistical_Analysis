@@ -46,3 +46,17 @@ Using Group_by () and summarize () functions, each manufacturing lot is grouped 
 - The T-test for Lot 3 has a sample mean of 1496.14 and a p-value of 0.04168. This indicates the p-value is lower than the significance level and the null hypothesis can be rejected. 
 
 ![image](https://user-images.githubusercontent.com/76491891/120903260-2c9b8500-c613-11eb-8b17-b30265dab663.png)
+
+### 4.  Study Design: MechaCar vs Competition
+The statistical study to see how the MechaCar performs against the competition.
+
+- A consumer may be interested in testing some of the below metrics:
+
+  - Fuel efficiency
+  -	Cost
+  -	Horsepower
+  -	Safety Rating
+  -	Resale Value
+ 
+- Null Hypothesis (Ho): There is no difference between the metrics of MechaCar and the competition.<br/>
+ Alternate Hypothesis (Ha): There is a difference between the metrics of MechaCar and the competition.
