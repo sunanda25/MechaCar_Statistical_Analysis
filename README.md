@@ -29,3 +29,8 @@ Using Group_by () and summarize () functions, each manufacturing lot is grouped 
 
 - The design specification for the MechaCar suspension coils is that the variance should not exceed 100 pounds per square inch. The total summary shows that the variance for all manufacturing lots is 62.29, which meets the design specification.
 - Lot summary shows that the variance of lot 1 is 0.97 and lot 2 is 7.46, where both lot 1 and 2 meet the design specification. However, the variance of lot 3 is 170.28 which exceeds the design specification. 
+
+### 3.  T-Tests on Suspension Coils
+- The T-test for all manufacturing lots has a p-value of 0.06028 which is higher than the significance level of 0.05. There is not enough evidence to reject the null hypothesis. The mean of all manufacturing lots is 1498.78 which is statistically the same as the population mean.
+
+![image](https://user-images.githubusercontent.com/76491891/120903182-aed77980-c612-11eb-8f95-385c71357913.png)
