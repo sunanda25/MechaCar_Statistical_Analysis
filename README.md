@@ -42,3 +42,7 @@ Using Group_by () and summarize () functions, each manufacturing lot is grouped 
 - The T-test for Lot 2 has a sample mean of 1500.02 and a p-value of 0.6072. This indicates the null hypothesis cannot be rejected as there is no statistical difference between the sample mean and the population mean.
 
 ![image](https://user-images.githubusercontent.com/76491891/120903243-037af480-c613-11eb-8d58-510ee3bc9b5f.png)
+
+- The T-test for Lot 3 has a sample mean of 1496.14 and a p-value of 0.04168. This indicates the p-value is lower than the significance level and the null hypothesis can be rejected. 
+
+![image](https://user-images.githubusercontent.com/76491891/120903260-2c9b8500-c613-11eb-8b17-b30265dab663.png)
