@@ -8,7 +8,7 @@ Jeremy has been working with AutosRUs for 10 years. With an exhaustive knowledge
 - Designed a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
 ## Results
-### Linear Regression to Predict MPG
+### 1.  Linear Regression to Predict MPG
 
 ![image](https://user-images.githubusercontent.com/76491891/120903008-7daa7980-c611-11eb-9e54-15297e0e244e.png)
 
@@ -18,7 +18,7 @@ MPG = (6.267) vehicle_length + (0.0012) vehicle_weight + (0.0688) spoiler_angle 
 - The p-value of the linear model is 5.35e-11 which is smaller than the assumed significance level of 0.05. Therefore, there is sufficient evidence to reject our null hypothesis, and the slope of the linear model is not zero.
 - The linear model can be predicted by considering the r-squared value. In this model, the r-squared value is 0.7149. The model to predict the MPG of the MechaCar is 71% effective.
 
-### Summary Statistics on Suspension Coils
+### 2.  Summary Statistics on Suspension Coils
 Using summarize () function, the Mean, Median, Variance, Standard deviation of suspension coil’s PSI column as shown below:
 
 ![image](https://user-images.githubusercontent.com/76491891/120903070-06291a00-c612-11eb-842d-77409098aa48.png)
