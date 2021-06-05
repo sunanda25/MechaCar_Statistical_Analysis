@@ -34,3 +34,7 @@ Using Group_by () and summarize () functions, each manufacturing lot is grouped 
 - The T-test for all manufacturing lots has a p-value of 0.06028 which is higher than the significance level of 0.05. There is not enough evidence to reject the null hypothesis. The mean of all manufacturing lots is 1498.78 which is statistically the same as the population mean.
 
 ![image](https://user-images.githubusercontent.com/76491891/120903182-aed77980-c612-11eb-8f95-385c71357913.png)
+
+- The T-test for Lot 1 has a sample mean of 1500 and a p-value of 1. This indicates the null hypothesis cannot be rejected as there is no statistical difference between the sample mean and the population mean.
+
+![image](https://user-images.githubusercontent.com/76491891/120903212-e1817200-c612-11eb-9d4c-e97fef3225a7.png)
