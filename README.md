@@ -60,3 +60,7 @@ The statistical study to see how the MechaCar performs against the competition.
  
 - Null Hypothesis (Ho): There is no difference between the metrics of MechaCar and the competition.<br/>
  Alternate Hypothesis (Ha): There is a difference between the metrics of MechaCar and the competition.
+
+- T-test is used to test the above hypothesis. T-test checks if there is a statistical difference between the mean of the sample distribution and the mean of the population distribution. A T-test is performed on each metric for MechaCar against the same metric for the competition. Upon performing the T-test if the p-value is less than the significance level, then the null hypothesis is rejected.
+
+- To perform the statistical test, data regarding fuel efficiency, cost, horsepower, safety rating, the resale value of competitor cars are taken. A minimum sample size of 30 is required to perform the T-test.
